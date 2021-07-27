@@ -32,6 +32,7 @@ function shuffle(array) {
     }
     return array;
 }
+
 function mainPhase1(hand, field){ //do we need to reference the opponent field? can the cards pull that info?
     let main = true
     let sumAvailable = true
